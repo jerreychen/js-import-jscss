@@ -1,0 +1,15 @@
+{
+  "name": "js-import-jscss",
+  "version": "1.0.0",
+  "description": "js 动态引用js/css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jerreychen",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jerreychen/js-import-jscss.git"
+  }
+}
